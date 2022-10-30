@@ -1,0 +1,10 @@
+.attribution{
+    color: hsl(240, 100%, 5%);
+    font-size: 15px;
+    font-weight: 400px;
+    margin: 45px 0px;
+    text-align: center;
+}
+@media only screen and ( max-width: 960px) {
+
+}
